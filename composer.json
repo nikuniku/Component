@@ -1,0 +1,20 @@
+{
+    "name": "WezpExtension/components",
+    "type": "library",
+    "description": "Collection of WezpExtension components",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Danny Dörfel",
+            "email": "danny@swoopaholic.nl"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "psr-0": { "WezpExtension\\Component\\": "" }
+    },
+    "target-dir": "WezpExtension/Component",
+    "minimum-stability": "dev"
+}
