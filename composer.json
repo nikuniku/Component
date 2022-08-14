@@ -1,7 +1,7 @@
 {
-    "name": "WezpExtension/components",
+    "name": "wezpextension/components",
     "type": "library",
-    "description": "Collection of WezpExtension components",
+    "description": "Collection of wezpextension components",
     "license": "MIT",
     "authors": [
         {
@@ -13,8 +13,8 @@
         "php": ">=5.3.3"
     },
     "autoload": {
-        "psr-0": { "WezpExtension\\Component\\": "" }
+        "psr-0": { "wezpextension\\Component\\": "" }
     },
-    "target-dir": "WezpExtension/Component",
+    "target-dir": "wezpextension/Component",
     "minimum-stability": "dev"
 }
